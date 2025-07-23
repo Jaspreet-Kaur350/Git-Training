@@ -1,1 +1,1 @@
-# Git-Training
+Hi there.. I am learning Git.
